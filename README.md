@@ -3,7 +3,7 @@ Hey there 👋! I'm Akin, a Senior Software Developer. Welcome to my profile pag
 ### What have I been up to?  
 
 - 🔭 I’m currently working on 2 interesting projects!
-- 🚀 I have been playing around with Ollama
+- 🚀 I have been playing with different LLM especial "stable diffusion" and "deepseek" - thanks to Ollama
 - 🧐 I started learning to play Guitar
 
 
