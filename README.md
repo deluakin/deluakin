@@ -4,7 +4,7 @@ Hey there 👋! I'm Akin, a Senior Software Developer. Welcome to my profile pag
 
 - 🔭 I’m currently working on 2 interesting projects!
 - 🚀 I have been playing with different LLMs, especial "stable diffusion" and "deepseek"
-- 🧐 I started learning to play Guitar
+- 🧐 I recently started learning to play Guitar
 
 
 
